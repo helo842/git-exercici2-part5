@@ -1,4 +1,4 @@
-lleo
-pantera
+lleo 
+pantera Grey
 gos
 ga
