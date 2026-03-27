@@ -2,3 +2,4 @@ lleo
 pantera
 gos green
 gat
+pantera Pink
